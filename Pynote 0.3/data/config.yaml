@@ -1,0 +1,7 @@
+editor:
+  font: Helvetica 12
+  size: 400x300
+window:
+  size: 300x500
+  theme: light
+  title: Pynote

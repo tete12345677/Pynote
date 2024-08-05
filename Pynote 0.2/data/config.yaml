@@ -1,0 +1,8 @@
+window:
+  size: "400x600"
+  title: "Fast Notes"
+  theme: "light"
+
+editor:
+  size: "400x300"
+  font: "Helvetica 12"
